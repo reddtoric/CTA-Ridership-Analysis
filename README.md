@@ -3,7 +3,7 @@ N-tier C# and SQL program to analyze CTA Ridership data for Programming Language
 
 Upon user selection of different stations and stops, the application analyzes and displays information such as total ridership for the selected station, average ridership, ridership on the weekday, direction of travel for a particular stop, and lines available for a particular stop. There are also top-10 options that display the top-10 stations for a criterion with features described above. Additionally, the users can update the handicap accessible field assuming in a production use, the application is connected to a database used by everyone. Below is a gif displaying basically what the app does. 
 
-![CTA Ridership App](/images/cta.gif)
+![CTA Ridership App](/cta.gif)
 
 ## Download
 You can download the compiled executable [here](https://drive.google.com/drive/folders/0BzjJ5VL34cNvbkd0Q2lJeXhHQnc?usp=sharing). **Note: works only on Windows operating system.**
